@@ -11,4 +11,23 @@
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
+	background: transparent;
+}
+
+/*.col-centered {
+	float: none;
+	margin: 0 auto;
+}*/
+
+.v-center {
+	margin-top: 10%;
+	text-align: center;
+}
+
+.main-content {
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 50px;
 }
