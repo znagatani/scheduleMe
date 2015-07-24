@@ -42,6 +42,15 @@ h1 {
 	font-size: 50px;
 }
 
-.init-email {
+.input-group {
 	margin-top: 20px;
+}
+
+.modal-content {
+	color: #000000;
+	text-align: left;
+}
+
+.modal-sign {
+	width: 100px;
 }
