@@ -68,3 +68,7 @@ h1 {
 .features {
 	margin-top: 100px;
 }
+
+.pad-left {
+	padding-left: 20px;
+}
