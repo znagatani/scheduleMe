@@ -55,20 +55,6 @@ h1 {
 	width: 100px;
 }
 
-<<<<<<< HEAD
-.col-centered {
-	float: none;
-	margin: 0 auto;
-	text-align: center;
-}
-
-.section-first-row {
-	margin-top: 60px;
-}
-
-.features {
-	margin-top: 100px;
-=======
 h1, h3 {
 	text-align: center;
 }
@@ -88,5 +74,4 @@ p {
 	font-size: 16px;
 	line-height: 1.6;
 
->>>>>>> old-state
 }
