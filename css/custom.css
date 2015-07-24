@@ -54,3 +54,17 @@ h1 {
 .modal-sign {
 	width: 100px;
 }
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.section-first-row {
+	margin-top: 60px;
+}
+
+.features {
+	margin-top: 100px;
+}
