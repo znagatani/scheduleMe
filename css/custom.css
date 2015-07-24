@@ -11,10 +11,6 @@
 	text-align: center;
 }
 
-body {
-	width: 100%;
-}
-
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
@@ -71,8 +67,9 @@ h1 {
 
 .features {
 	margin-top: 100px;
+	margin-left: 100px;
 }
 
-.pad-left {
+/*.pad-left {
 	padding-left: 100px;
-}
+}*/
