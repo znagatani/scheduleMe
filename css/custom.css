@@ -11,6 +11,10 @@
 	text-align: center;
 }
 
+body {
+	width: 100%;
+}
+
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
@@ -70,5 +74,5 @@ h1 {
 }
 
 .pad-left {
-	padding-left: 20px;
+	padding-left: 100px;
 }
