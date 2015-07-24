@@ -143,3 +143,10 @@ p {
 .img-responsive {
 	text-align: center;
 }
+
+#cta {
+	margin-top: 20px;
+	width: 200px;
+	font-size: 24px;
+	font-weight: bold;
+}
