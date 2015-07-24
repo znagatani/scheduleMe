@@ -75,3 +75,9 @@ p {
 	line-height: 1.6;
 
 }
+
+@media (max-height: 350px) {
+	.navbar-fixed-top {
+		position: static;
+	}
+}
