@@ -139,3 +139,7 @@ p {
         float: left;
     }
 }
+
+.img-responsive {
+	text-align: center;
+}
